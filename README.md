@@ -49,8 +49,11 @@
         </tr>
     </tbody>
 </table>
+
+## My Github Stats
  
 ![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=AbssZy&theme=dark&show_icons=true)
+
 ## :scroll: Publications
 
 - [Evolving One Touch Parking Reservation System](https://www.ijsr.net/get_abstract.php?paper_id=SR20929151428)
