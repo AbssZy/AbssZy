@@ -9,7 +9,7 @@
 
 * I have served as the Financial Head at Technology And Gaming CLUB - VIT Vellore.
 
-* I have industrial experience in the field of Web development as ell as academic experience in the field of software engineering and machine learning.
+* I have industrial experience in the field of Web development as well as academic experience in the field of software engineering and machine learning.
 
 * I would love to contribute to Open-Source Community.
 
