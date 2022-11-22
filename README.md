@@ -54,6 +54,10 @@
  
 ![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=AbssZy&theme=dark&show_icons=true)
 
+## Hacktoberfest 2022
+
+[![@absszy's Holopin board](https://holopin.me/absszy)](https://holopin.io/@absszy)
+
 ## :scroll: Publications
 
 - [Evolving One Touch Parking Reservation System](https://www.ijsr.net/get_abstract.php?paper_id=SR20929151428)
