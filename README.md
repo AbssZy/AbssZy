@@ -3,7 +3,7 @@
 
 * I am [Abhishek Naik](https://www.linkedin.com/in/abhishek-naik-8a897214b/). 
 
-* Here is my [Resume](https://drive.google.com/file/d/1-ae08-twb3C-RT56O9txQD5X179VJQzT/view?usp=sharing).
+* Here is my [Resume](https://drive.google.com/file/d/1V1K5DIOy_4C6eOn1YA3snOGI8G430uQ5/view?usp=sharing).
 
 * A final-year student of Vellore Institute Of Technology currently pursuing Bachelor of Technology in Computer Science and Engineering.
 
