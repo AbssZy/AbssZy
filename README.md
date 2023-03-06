@@ -5,7 +5,9 @@
 
 * Here is my [Resume](https://drive.google.com/file/d/1V1K5DIOy_4C6eOn1YA3snOGI8G430uQ5/view?usp=sharing).
 
-* A final-year student of Vellore Institute Of Technology currently pursuing Bachelor of Technology in Computer Science and Engineering.
+* Currently doing my Master of Computer Science at the University of New Brunswick.
+
+* Completed Bachelor of Technology in Computer Science and Engineering from Vellore Institute Of Technology, Vellore, India.
 
 * I have served as the Financial Head at Technology And Gaming CLUB - VIT Vellore.
 
@@ -60,13 +62,14 @@
 
 ## :scroll: Publications
 
+- [Recommending Best Quality Image Using Tracking and Re-identification Approaches](https://link.springer.com/chapter/10.1007/978-981-19-2948-9_44)
 - [Evolving One Touch Parking Reservation System](https://www.ijsr.net/get_abstract.php?paper_id=SR20929151428)
 
 ## Find me around the web 🌎:
 
-- [Instagram](https://www.instagram.com/itsabsszy/)
-- [Facebook](https://www.facebook.com/abhishek.naik.14203/)
-- [LinkedIn](https://www.linkedin.com/in/abhishek-naik-8a897214b/)
-- [Twitter](https://twitter.com/ZyAbss)
+- [Instagram](https://www.instagram.com/absszy/)
+- [Facebook](https://www.facebook.com/absszy/)
+- [LinkedIn](https://www.linkedin.com/in/absszy/)
+- [Twitter](https://twitter.com/itsAbssZy)
 
 If you like the Repository give it a :star: and also follow me on GitHub, And lets together make this world a better place.<br>
